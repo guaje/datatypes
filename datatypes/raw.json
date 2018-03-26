@@ -1,3 +1,10 @@
 {
-    "t": 1
+    "desc" : "Unstructured output that can be used by all apps by default",
+    "files" : [ 
+        {
+            "id" : "output",
+            "dirname" : ".",
+            "required" : true
+        }
+    ]
 }
