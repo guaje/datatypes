@@ -1,0 +1,11 @@
+{
+    "desc" : "Model fit parameters in PeaksAndMetrics(HDF5)",
+    "files" : [ 
+        {
+            "id" : "peaks",
+            "filename" : "peaks.pam5",
+            "ext" : ".pam5",
+            "required" : true
+        }
+    ]
+}

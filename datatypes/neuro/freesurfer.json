@@ -1,0 +1,10 @@
+{
+    "desc" : "Freesurfer Output",
+    "files" : [ 
+        {
+            "id" : "output",
+            "dirname" : "output",
+            "required" : true
+        }
+    ]
+}

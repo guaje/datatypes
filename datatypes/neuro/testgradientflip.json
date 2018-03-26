@@ -1,0 +1,17 @@
+{
+    "desc" : "(deprecated by generic/raw) Output from app-testgradientflip app",
+    "files" : [ 
+        {
+            "id" : "result",
+            "filename" : "results.json",
+            "required" : true
+        }
+    ],
+    "meta" : [ 
+        {
+            "id" : "subject",
+            "type" : "string",
+            "required" : true
+        }
+    ]
+}

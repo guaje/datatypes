@@ -1,0 +1,20 @@
+{
+    "desc" : "White Matter Classification",
+    "files" : [ 
+        {
+            "id" : "output",
+            "filename" : "output.mat",
+            "required" : true
+        }, 
+        {
+            "id" : "fibercounts",
+            "filename" : "output_fibercounts.txt",
+            "required" : true
+        }, 
+        {
+            "id" : "tracts",
+            "dirname" : "tracts",
+            "required" : true
+        }
+    ]
+}

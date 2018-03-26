@@ -1,0 +1,10 @@
+{
+    "desc" : "Output Connectome Evaluator",
+    "files" : [ 
+        {
+            "id" : "output",
+            "filename" : "out.json",
+            "required" : true
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "desc" : "Output from Generate Tract Surfaces App",
+    "files" : [ 
+        {
+            "id" : "surfaces",
+            "dirname" : "surfaces",
+            "required" : true
+        }
+    ]
+}

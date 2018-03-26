@@ -1,0 +1,12 @@
+{
+    "desc" : "T2 weighted",
+    "files" : [ 
+        {
+            "id" : "t2",
+            "filename" : "t2.nii.gz",
+            "ext" : ".nii.gz",
+            "required" : true
+        }
+    ],
+    "validator" : "brain-life/validator-neuro-anat"
+}

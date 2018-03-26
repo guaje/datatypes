@@ -1,0 +1,31 @@
+{
+    "desc" : "fMRI Task",
+    "files" : [ 
+        {
+            "id" : "bold",
+            "filename" : "bold.nii.gz",
+            "ext" : ".nii.gz",
+            "required" : true
+        }, 
+        {
+            "id" : "events",
+            "filename" : "events.tsv",
+            "required" : false
+        }, 
+        {
+            "id" : "sbref",
+            "filename" : "sbref.nii.gz",
+            "required" : false
+        }, 
+        {
+            "id" : "physio",
+            "filename" : "physio.tsv.gz",
+            "required" : false
+        }, 
+        {
+            "id" : "physio.json",
+            "filename" : "physio.json",
+            "required" : false
+        }
+    ]
+}

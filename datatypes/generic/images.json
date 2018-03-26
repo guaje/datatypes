@@ -1,0 +1,15 @@
+{
+    "desc" : "Collection of various images with metadata",
+    "files" : [ 
+        {
+            "id" : "images.json",
+            "filename" : "images.json",
+            "required" : true
+        }, 
+        {
+            "id" : "images",
+            "dirname" : "images",
+            "required" : true
+        }
+    ]
+}

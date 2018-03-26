@@ -1,0 +1,11 @@
+{
+    "desc" : "dtiInit output",
+    "files" : [ 
+        {
+            "id" : "output",
+            "dirname" : ".",
+            "desc" : "dtiInit output (see product.json for list of files)",
+            "required" : true
+        }
+    ]
+}

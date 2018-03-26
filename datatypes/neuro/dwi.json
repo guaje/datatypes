@@ -1,0 +1,22 @@
+{
+    "desc" : "Diffusion Image (.nii.gz)",
+    "files" : [ 
+        {
+            "id" : "dwi",
+            "filename" : "dwi.nii.gz",
+            "ext" : ".gz",
+            "required" : true
+        }, 
+        {
+            "id" : "bvecs",
+            "filename" : "dwi.bvecs",
+            "required" : true
+        }, 
+        {
+            "id" : "bvals",
+            "filename" : "dwi.bvals",
+            "required" : true
+        }
+    ],
+    "validator" : "brain-life/validator-neuro-dwi"
+}

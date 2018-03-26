@@ -1,0 +1,10 @@
+{
+    "desc" : "Tract Profile Output",
+    "files" : [ 
+        {
+            "id" : "output",
+            "filename" : "out.json",
+            "required" : true
+        }
+    ]
+}

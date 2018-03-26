@@ -1,0 +1,10 @@
+{
+    "desc" : "PNG Image (deprecated by images datatype)",
+    "files" : [ 
+        {
+            "id" : "image",
+            "filename" : "image.png",
+            "required" : true
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "desc" : "Output from Laplace Beltrami Spectrum App",
+    "files" : [ 
+        {
+            "id" : "spectrum",
+            "filename" : "spectrum.json",
+            "required" : true
+        }, 
+        {
+            "id" : "eigenvectors",
+            "filename" : "eigenvectors.mat",
+            "required" : false
+        }
+    ]
+}

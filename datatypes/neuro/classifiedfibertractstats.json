@@ -1,0 +1,11 @@
+{
+    "name" : "neuro/classifiedfibertractstats",
+    "desc" : "Output from app-classifiedfibertractstats",
+    "files" : [ 
+        {
+            "id" : "csv",
+            "filename" : "output_FiberStats.csv",
+            "required" : true
+        }
+    ]
+}

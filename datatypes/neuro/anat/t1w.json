@@ -1,0 +1,12 @@
+{
+    "desc" : "T1 Weighted",
+    "files" : [ 
+        {
+            "id" : "t1",
+            "filename" : "t1.nii.gz",
+            "ext" : ".gz",
+            "required" : true
+        }
+    ],
+    "validator" : "brain-life/validator-neuro-anat"
+}

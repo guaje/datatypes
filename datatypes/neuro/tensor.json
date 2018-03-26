@@ -1,0 +1,29 @@
+{
+    "desc" : "Diffusion Tensor Image Scalars",
+    "files" : [ 
+        {
+            "id" : "fa",
+            "filename" : "fa.nii.gz",
+            "ext" : ".gz",
+            "required" : true
+        }, 
+        {
+            "id" : "md",
+            "filename" : "md.nii.gz",
+            "ext" : ".gz",
+            "required" : true
+        }, 
+        {
+            "id" : "rd",
+            "filename" : "rd.nii.gz",
+            "ext" : ".gz",
+            "required" : true
+        }, 
+        {
+            "id" : "ad",
+            "filename" : "ad.nii.gz",
+            "ext" : ".gz",
+            "required" : true
+        }
+    ]
+}

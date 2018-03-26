@@ -1,0 +1,12 @@
+{
+    "desc" : "MRtrix Track Data (.tck)",
+    "files" : [ 
+        {
+            "id" : "track",
+            "filename" : "track.tck",
+            "ext" : ".tck",
+            "required" : true
+        }
+    ],
+    "validator" : "brain-life/validator-neuro-track"
+}

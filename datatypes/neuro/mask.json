@@ -1,0 +1,11 @@
+{
+    "desc" : "Volume Mask",
+    "files" : [ 
+        {
+            "id" : "mask",
+            "filename" : "mask.nii.gz",
+            "ext" : ".gz",
+            "required" : true
+        }
+    ]
+}

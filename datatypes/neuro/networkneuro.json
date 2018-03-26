@@ -1,0 +1,10 @@
+{
+    "desc" : "Various .mat files generated from Network Neuro Application",
+    "files" : [ 
+        {
+            "id" : "output",
+            "dirname" : "output",
+            "required" : true
+        }
+    ]
+}

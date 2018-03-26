@@ -1,0 +1,10 @@
+{
+    "desc" : "Output from Generate Tract Masks App containing 20 tracts separated from AFQ",
+    "files" : [ 
+        {
+            "id" : "masks",
+            "dirname" : "masks",
+            "required" : true
+        }
+    ]
+}

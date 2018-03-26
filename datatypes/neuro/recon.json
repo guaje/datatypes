@@ -1,0 +1,41 @@
+{
+    "desc" : "Diffusion Signal Voxel Reconstruction Model",
+    "files" : [ 
+        {
+            "id" : "response",
+            "filename" : "response.txt",
+            "ext" : ".txt",
+            "required" : true
+        }, 
+        {
+            "id" : "fa",
+            "filename" : "fa.nii.gz",
+            "ext" : ".nii.gz",
+            "required" : true
+        }, 
+        {
+            "id" : "dt",
+            "filename" : "dt.nii.gz",
+            "ext" : ".nii.gz",
+            "required" : true
+        }, 
+        {
+            "id" : "wm",
+            "filename" : "whitematter.nii.gz",
+            "ext" : ".nii.gz",
+            "required" : true
+        }, 
+        {
+            "id" : "brainmask",
+            "filename" : "brainmask.nii.gz",
+            "ext" : ".nii.gz",
+            "required" : true
+        }, 
+        {
+            "id" : "csd",
+            "filename" : "csd.nii.gz",
+            "ext" : ".nii.gz",
+            "required" : true
+        }
+    ]
+}
